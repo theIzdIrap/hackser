@@ -1,5 +1,10 @@
 # hackser-hack-browser
 
+
+![ewqewq](https://github.com/theIzdIrap/hackser/assets/62066592/2ebcd366-5e48-4655-968e-fa8e849d32ce)
+
+
+
 V1.0.2 Changelog                                                                                                        
 - Records are closed. (The sites are not gonna take the records, cookies, ip, non perm. data collecting etc. etc.)      
 - Cookie collecting closed.                                                                                             
