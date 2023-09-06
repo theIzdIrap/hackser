@@ -1,5 +1,9 @@
 # hackser-hack-browser
 
+*It's Requires Password.
+*Not For Free And Not For Sale.
+*It's here only for some people.
+
 
 ![ewqewq](https://github.com/theIzdIrap/hackser/assets/62066592/2ebcd366-5e48-4655-968e-fa8e849d32ce)
 
