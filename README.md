@@ -1,5 +1,17 @@
 # hackser-hack-browser
 
+Before enc.
+![21312](https://github.com/theIzdIrap/hackser/assets/62066592/67b8c06f-1007-4644-9e6b-1b432427b464)
+
+After enc.
+![21312412](https://github.com/theIzdIrap/hackser/assets/62066592/a45ea419-bd3f-441f-948a-023f8072a385)
+
+
+
+
+
+
+
 *It's Requires Password.
 *Not For Free And Not For Sale.
 *It's here only for some people.
@@ -37,3 +49,12 @@ V1.0.2 Changelog
 
                                                                                     
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+V1.0.3 Changelog
++ Fixing website scraper code bug.
++ Adding multiple tabs.
++ Adding close tabs.
++ Adding button of stops the reload of calling "Stop"
++ Adding a button that stops the reloading by clicking 'Stop'.
++ Adding ecnrypter/decrypter 
+
